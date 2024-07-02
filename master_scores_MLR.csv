@@ -1,2 +1,0 @@
-Model,Columns,Mean R2,Std R2,Mean RMSE,Std RMSE
-MLR: Notebook,"['Neighborhood', 'HQSF', 'TotalBath', 'BedroomAbvGr', 'FireplaceYN', 'GarageCars']",0.8296,0.0195,28733.48,1203.39

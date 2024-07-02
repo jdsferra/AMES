@@ -1,0 +1,4 @@
+Model,Param Tuning,Untuned R2,Tuned R2
+Lasso,alpha = 29,0.906,0.91
+Ridge,alpha = 2.5,0.9094,0.9098
+ElasticNet,"alpha = .1, l1_ratio = .99",0.862,0.9098

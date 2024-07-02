@@ -1,4 +1,0 @@
-Model,Param Tuning,Untuned R2,Tuned R2
-RandomForest,"n_estimators = 325, max_depth = 14, min_samples_split = 3,    min_samples_leaf = 1, max_features = 0.5",0.9093,0.9135
-GradientBoost,alpha = 3,0.913,0.9137
-SVR,"alpha = .2, l1_ratio = .99",0.8765,0.9137
